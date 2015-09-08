@@ -51,4 +51,6 @@ body {
 }
 .words {
 	display: inline-block;
+	color: red;
+	font-family: "Comic Sans Ms"
 }
